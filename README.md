@@ -2,5 +2,6 @@
 
 ## Project Demo😷:
 
-https://github.com/GyanPrakashkushwaha/FaceMaskDetection/assets/127115588/70af8394-a9ea-43ca-8dff-b96320e4cf25
+
+https://github.com/GyanPrakashkushwaha/FaceMaskDetection/assets/127115588/80d7cb76-4621-4447-b79e-ce4de173e51d
 
